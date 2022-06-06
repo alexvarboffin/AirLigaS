@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AirLigaS.iml" filepath="$PROJECT_DIR$/.idea/modules/AirLigaS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/AirLigaS.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/AirLigaS.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/AirLigaS.launcher.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/AirLigaS.launcher.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/AirLigaS.launcher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/AirLigaS.launcher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/AirLigaS.launcher.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/AirLigaS.launcher.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/AirLigaS.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/AirLigaS.unityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/AirLigaS.unityLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/AirLigaS.unityLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/AirLigaS.unityLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/AirLigaS.unityLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/AirLigaS.unityLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/AirLigaS.unityLibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>
